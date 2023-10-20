@@ -1,0 +1,79 @@
+[
+    {
+        "id": "1",
+        "banda": "Bby Lean",
+        "genero": "Trap",
+        "logo": "./Bandas/1.png"
+    },
+    {
+        "id": "2",
+        "banda": "Abducción",
+        "genero": "Rock",
+        "logo": "./Bandas/2.png"
+    },
+    {
+        "id": "3",
+        "banda": "Aira Ruidos",
+        "genero": "Electrónica",
+        "logo": "./Bandas/3.png"
+    },
+    {
+        "id": "4",
+        "banda": "Winters of blue",
+        "genero": "Experimental",
+        "logo": "./Bandas/4.png"
+    },
+    {
+        "id": "5",
+        "banda": "Nashi Bell",
+        "genero": "Urbano",
+        "logo": "./Bandas/5.png"
+    },
+    {
+        "id": "6",
+        "banda": "Annie Vent",
+        "genero": "Pop",
+        "logo": "./Bandas/6.png"
+    },
+    {
+        "id": "7",
+        "banda": "Situation 32",
+        "genero": "Urbano",
+        "logo": "./Bandas/7.png"
+    },
+    {
+        "id": "8",
+        "banda": "Greta Maureen",
+        "genero": "Rock",
+        "logo": "./Bandas/8.png"
+    },
+    {
+        "id": "9",
+        "banda": "Pupilas",
+        "genero": "Rock",
+        "logo": "./Bandas/9.png"
+    },
+    {
+        "id": "10",
+        "banda": "Big Timmy",
+        "genero": "Urbano",
+        "logo": "./Bandas/10.png"
+    },
+    {
+        "id": "11",
+        "banda": "Malandra a secas",
+        "genero": "Punk rock",
+        "logo": "./Bandas/11.png"
+    },
+    {
+        "id": "12",
+        "banda": "Zita Zoe",
+        "genero": "Hip-hop",
+        "logo": "./Bandas/12.png"
+    },
+    {
+        "id": "13",
+        "banda": "Elisa y la respuesta a todo",
+        "genero": "Rock",
+        "logo": "./Bandas/13.png"
+    }]
